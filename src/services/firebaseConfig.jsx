@@ -9,7 +9,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA5eR8Eb67bCiGF-sc-SZ8S9_qKkyTSdBg",
+  apiKey: "apiKey"
   authDomain:"zenguide-fa81f.firebaseapp.com" ,
   projectId: "zenguide-fa81f",
   storageBucket:"zenguide-fa81f.appspot.com",
