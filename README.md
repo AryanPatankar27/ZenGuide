@@ -8,13 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F47c2e3ae-ed24-4e62-b35c-cfd1bb20574f.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="400" height="400/">
+<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F47c2e3ae-ed24-4e62-b35c-cfd1bb20574f.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="1280" height="617/">
 
-<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F25967691-0167-4cfe-aaf7-c6021e3ec892.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="400" height="400/">
+<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F25967691-0167-4cfe-aaf7-c6021e3ec892.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="1280" height="617/">
 
-<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F5b21e181-1f15-4147-8f44-5fe247e89e55.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="400" height="400/">
+<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2F5b21e181-1f15-4147-8f44-5fe247e89e55.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="1280" height="617/">
 
-<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2Fc85313cc-55da-48df-b1ec-695a557e9482.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="400" height="400/">
+<img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F04aabe20cd4b46ddb320f187ec19a322%2Fprojects%2F6d5a647c834c47819841cebc2a14992a%2Fc85313cc-55da-48df-b1ec-695a557e9482.jpeg&amp;w=1440&amp;q=75" alt="project-screenshot" width="1280" height="617/">
 
   
   
